@@ -11,7 +11,7 @@ Instructions:
 
 4. vi result.csv - Opens the file to view the results.
 
-5. Code is well documented, explaining each code snippet. 
+5. Code is well documented, explaining each code snippet.
 
 NOTE: The code snippet can extract information only from the html page mentioned. The code has to be modified to extract information from any other html page.
 
